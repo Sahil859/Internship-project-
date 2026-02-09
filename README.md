@@ -143,6 +143,6 @@ House-Price-Prediction
 ## Author
 
 Sahil Khan
-BCA Student | Aspiring Software Developer | Machine Learning Enthusiast
+
 
 
