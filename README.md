@@ -1,4 +1,4 @@
-# Email Spam Classifier using Machine Learning
+# 1. Email Spam Classifier using Machine Learning
 
 This project is a Machine Learning model that classifies emails or messages as **Spam** or **Not Spam (Ham)**. The model is built using Python and common data science libraries in Google Colab.
 
@@ -64,7 +64,7 @@ Sahil Khan
 
 
 
-# House Price Prediction using Machine Learning
+# 2. House Price Prediction using Machine Learning
 
 This project demonstrates a Machine Learning regression model that predicts house prices based on various housing features. The project was developed using Python in Google Colab.
 
